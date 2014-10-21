@@ -1,0 +1,3 @@
+
+hadoop training class
+
